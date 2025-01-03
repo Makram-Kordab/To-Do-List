@@ -12,11 +12,17 @@
     padding: 10px;
 }
 
+#production{
+    color: darkgray;
+    text-align: center;
+    margin-top: 40px;
+}
+
 .todo-app{
     width: 100%;
     max-width: 540px;
     background-color: #fff;
-    margin: 100px auto 20px;
+    margin: 75px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
